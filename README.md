@@ -31,7 +31,7 @@ A retro-style 2D space shooter built using **HTML5 Canvas, CSS, and JavaScript**
 
 ---
 
-## ⚙️ Technologies Used
+## ⚙️ Technologies  Used
 
 - HTML5 Canvas  
 - CSS3 (Retro UI styling)  
@@ -44,7 +44,7 @@ A retro-style 2D space shooter built using **HTML5 Canvas, CSS, and JavaScript**
 - Game loop using `requestAnimationFrame`  
 - Collision detection  
 - State management  
-- Event handling (keyboard & touch)  
+- Event handling (keyboard and touch)  
 - Object-based game architecture  
 - Animations & particle systems  
 
